@@ -1,0 +1,6 @@
+아래 json값 body로 작성해서 테스트할 것
+{
+    "first_name":"turker",
+    "last_name":"kim",
+    "email":"akeka0303@naver.com"
+}
