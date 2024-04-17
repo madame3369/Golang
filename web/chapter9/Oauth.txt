@@ -1,0 +1,3 @@
+GOOGLE_CLIENT_ID		817695427497-snbv4r1qo6jfqopvpldsr8kfr69laupq.apps.googleusercontent.com
+
+GOOGLE_SECRET_KEY	AIzaSyCSSmHaE9aUq63G5v4xeik96bvOa-Z0W3Q
